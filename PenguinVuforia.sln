@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenguinVuforia.CSharp", "PenguinVuforia.CSharp.csproj", "{30A3482B-D70B-20B2-3DFC-506D4720AD89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenguinVuforia.CSharp.Editor", "PenguinVuforia.CSharp.Editor.csproj", "{253610E3-F58F-3903-866D-702F834A26B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A3482B-D70B-20B2-3DFC-506D4720AD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A3482B-D70B-20B2-3DFC-506D4720AD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A3482B-D70B-20B2-3DFC-506D4720AD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A3482B-D70B-20B2-3DFC-506D4720AD89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253610E3-F58F-3903-866D-702F834A26B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253610E3-F58F-3903-866D-702F834A26B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253610E3-F58F-3903-866D-702F834A26B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253610E3-F58F-3903-866D-702F834A26B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
